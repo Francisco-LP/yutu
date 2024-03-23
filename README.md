@@ -1,7 +1,7 @@
 # dependencias 
 * python 3
 * pip
-    sudo dnf install pip (Linux / fedora)
+     (sudo dnf install pip (Linux / fedora))
 * pytube
     pip install pytube
 
